@@ -1,5 +1,6 @@
 # Suas Finanças Pessoas
 
+📌 Status
 Este projeto está em desenvolvimento.
 
 A ideia é criação/exclusão/edição de transações, um dashboard para controle e tela de login com autenticação.
