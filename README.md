@@ -12,5 +12,6 @@ Ferramentas utilizadas:
 - TypeScript
 - Redux
 - ContextAPI
+- Hooks
 
 
